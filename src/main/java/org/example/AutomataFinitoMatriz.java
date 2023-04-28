@@ -10,7 +10,7 @@ public class AutomataFinitoMatriz extends AutomataFinito{
 
     @Override
     public void cierreTransicion(int estado, int[] cadena) {
-        this.
+        cadena[this.]
     }
 
     @Override
